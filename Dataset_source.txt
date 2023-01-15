@@ -1,0 +1,3 @@
+E-commerce dataset source link:
+
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
